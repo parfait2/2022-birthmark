@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\FlutterProject\birthmark\opencv\.cxx\Debug\3k542a2y\x86_64'
+ninja: no work to do.
