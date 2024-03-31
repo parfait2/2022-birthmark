@@ -11,4 +11,7 @@
 📍 scipy library - Powell method 사용  
 📍 numpy library - 벡터 정규화 함수 사용  
 
+✔️ 모반의 색상의 변화와 크기 변화를 추적할 수 있습니다.
+
 ![산학협력](https://github.com/parfait2/2022-birthmark/assets/60564216/6b15ea6e-3a28-445b-9170-3003b10a0a43)
+
